@@ -8,7 +8,7 @@
 #     selectinfinder.rb *pattern*
 #   so a list of glob expanded item names in the directory is produced
 #   This files are added to the selected ones in the top most window only when both
-#   coincide (the window for the first arg and the selection window)
+#   coincide (the window for the first arg and the window with the previously selected items)
 
 # Limitations:
 #   It only only selects items in one directory/window, the path for the first one
